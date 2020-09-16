@@ -3,6 +3,6 @@
 *  BMI (Brain-machine interface)
     *  Invasive vs. non-invasive
         *  [[Kernel]]
-        *  Neuralink
+        *  [[Neuralink]]
 *  Reading data
 *  Writing data
