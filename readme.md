@@ -1,4 +1,4 @@
-# Foam
+# Neuro
 
 👋 Welcome to your new Foam Workspace!
 
