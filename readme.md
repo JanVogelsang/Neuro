@@ -4,7 +4,7 @@
 *  [[Application areas]]
 *  [[Imagination]]
 *  [[Simulating a human brain]]
-*  Nervous system
+*  [[Nervous system]]
 
 
 
