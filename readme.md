@@ -1,13 +1,10 @@
 # Neuro
 
-*  [[Human Brain Connection]]
-*  [[Application areas]]
-*  [[Imagination]]
-*  [[Simulating the human brain]]
-*  [[Nervous system]]
-
-
-
+- [[Human Brain Connection]]
+- [[Application areas]]
+- [[Imagination]]
+- [[Simulating the human brain]]
+- [[Nervous system]]
 
 ### Sources
 
