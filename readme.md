@@ -4,7 +4,7 @@
 *  Application areas
 *  Imagination
 *  Simulating a human brain
-*  Nervous System
+*  Nervous system
 
 
 
