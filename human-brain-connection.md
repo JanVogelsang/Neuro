@@ -2,7 +2,7 @@
 
 *  BMI (Brain-machine interface)
     *  Invasive vs. non-invasive
-        *  Kernel
+        *  [[Kernel]]
             *  
             *  Experiment 1: Speller
                 *  
