@@ -11,8 +11,8 @@
 ### 1. Speller
 Decoding gaze from brain signals to get the tiles consisting of 26 letters and 10 digits the subjects were looking at.  
 
-
 ### 2. Sound ID
-
+Measuring brain activity to determine what someone is listening to. Two sets of sounds, one with speech and one with songs, were given to the subjects. The subjects then chose from these sets and listened to the sounds. While they were listening, the brain signal was measured and an algorithm determined the probability of each song the person might be listening to. As algorithm, a canonical correlation analysis (CCA) has been used. To train the CCA, the brain and audio signals were downsampled to 100 samples per second. For each time step, 16 sensors recorded data into 32 channels while for each channel the audio envelope has been delayed by 0 to 240ms in 20ms steps to account for the latency of neural responses to external stimuli. CCA acts both as a temporal filter, tuned to isolate the information of most relevance to the perceived stimulus in the brain signals as well as a spatial filter, combining information across channels to achieve maximal correspondence between the stimulus and the brain signal.
+The average correlation values were passed into a softmax operator with an additional parameter controlling how differences in correlation values are amplified in the output, while the output of the softmax function will be used as probability score to rank the sound snippets.
 
 [kernel.com, 12.10.2020](https://www.kernel.co/hello-humanity)
