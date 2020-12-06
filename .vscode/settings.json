@@ -18,11 +18,21 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "spellright.language": [
-    "de"
+    "en"
   ],
   "spellright.documentTypes": [
     "markdown",
     "latex",
     "plaintext"
+  ],
+  "cSpell.words": [
+    "GPCR",
+    "GPCRs",
+    "confirmational",
+    "opsin",
+    "photopsin",
+    "photoreceptors",
+    "rhodopsins",
+    "transducin"
   ]
 }
