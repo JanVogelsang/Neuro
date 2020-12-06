@@ -29,12 +29,17 @@
     "GPCR",
     "GPCRs",
     "amacrine",
+    "brainstem",
+    "colliculus",
     "confirmational",
+    "hyperpolarizing",
     "interneurons",
     "opsin",
     "photopsin",
     "photoreceptors",
+    "retinofugal",
     "rhodopsins",
+    "tectum",
     "transducin"
   ]
 }
