@@ -16,5 +16,13 @@
     "**/node_modules": true
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "spellright.language": [
+    "de"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ]
 }
