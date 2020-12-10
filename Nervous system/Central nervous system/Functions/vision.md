@@ -42,3 +42,11 @@ Unlike the LGN where every layer gets incoming neural input from the retina and 
 Binocular responses to stimuli first occur in the V1 brain region where information is synthesized from both eyes to form a response instead of just having the the presence of tracts from both eyes.  
 There are two pathways starting from the occipital love at the back of the brain. First the ventral pathway which goes from the primary visual cortex to an area called V2, which is just in front of it and then goes down along the ventral surface of the brain to an area called V4 followed by an area called inferior temporal cortex.  These regions are building up progressively bigger and progressively more complex stimuli representations as visual information moves through the ventral visual pathway.  
 So the dorsal pathway includes areas with names like MT for middle temporal area, which seems to be concerned with the direction of movement in the visual field. We also find areas like the posterior parietal area, which seem to be concerned with directing attention to particular parts of visual space, which is called spatial attention.  
+
+## Superior vision systems
+### Buzzard
+The retina of the Buzzard has over a million photo receptors per square millimeter, which allows this aerial hunter to see small rodents from a height of up to 4.5 kilometers.  
+
+### Deep sea fish
+Select deep sea fish species have only rods and no cones in their retina. With up to 25 million rods per square millimeter in their retina, select deep sea fish appear to have highly adaptive visual systems to detect dim bio luminescent flares in the deep sea.  
+Some species have evolved to see better by simply adding more eyes, e.g. the box jellyfish with its 24 eyes.  
