@@ -9,3 +9,8 @@ Sour and salt are both sensed by ion channels that carry or are activated by spe
 
 ## Perception
 Experiments with transgenic mice showed that it is not the receptor that determines the taste our brain perceives, but instead it is the identity of the taste cell the receptor is embedded in. The receptor simply renders the cell sensitive to the presence of a chemical in its environment. Once the receptors activate a sensory cell, the neurobiological meaning transferred by the cell depends on its taste character.  
+
+## Superior gustation systems
+### Insects
+Butterflies and honeybees have taste receptors on their feet. Honeybees also have taste receptors on their jaws, four limbs and antennae.  
+The earthworm's entire body is covered with taste receptors.  

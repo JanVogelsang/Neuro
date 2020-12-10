@@ -26,7 +26,7 @@ Other retinal axons go to other smaller nuclei in the brain, such as the accesso
 Another major projection goes to the thalamus, a key way station in the middle of the brain, which then projects onto the cerebral cortex. A great deal of processing happens in our visual cortex and our conscious perception of vision resides here.  
 The retinofugal projection has five major parts before reaching the visual cortex, which in order include the optic nerve, the optic chiasma, the optic tract, the Lateral geniculate nucleus, and the optic radiation.  
 
-# Lateral Geniculate Nucleus
+## Lateral Geniculate Nucleus
 The Lateral Geniculate Nucleus (LGN) is a cluster of neurons in the ventro-lateral part of the thalamus that is important for visual processing.  
 The LGN located in the left hemisphere processes input originating from the right visual field, while the LGN located in the right hemisphere processes input from the left visual field. It's been shown that the ipsilateral and contra-lateral axons from the retina project each into three distinct layers, six in total, which encode three functional streams of information.  
 Anatomically, the two most ventral layers contain larger neurons, the magnocellular, or m-type neurons. All the four more dorsal layers contain smaller neurons, the parvocellular, or p-type neurons. In addition, tiny neurons are found in between each layer called the koniocellular neurons. These three cell types in the LGN are innervated by specific axons from the retinal ganglion cells in an example of parallel processing.  
