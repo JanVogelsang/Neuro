@@ -67,4 +67,3 @@ Some species actively generate electricity, including various species of electri
 They can also detect objects in their environment by perceiving how the electric field they produce around themselves is modified by the presence of other objects.
 This reception takes place in electroreceptive sensory cells embedded in the fish's skin, originally described as the electroreceptive retina.  
 In addition to electrolocation, many fish also use their active electroreceptive sense to communicate as part of their social behavior. For example, each species of fish has their own characteristic discharge profile from the electric organ.
-
