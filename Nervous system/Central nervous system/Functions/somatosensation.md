@@ -24,7 +24,7 @@ Grasshoppers and butterflies have hair cells all over their bodies and wings to 
 
 ## Superior thermoception systems
 ### Bats
-Bats can detect the warmth of the animal from about a half a foot away using their nose leaf.
+Bats can detect the warmth of the animal from about a half a foot away using their nose leaf.  
 ## Magnetosensation
 ### Migratory birds
 Certain migratory birds are believed to use magnetic cues in addition to several other factors to find their way across the globe during migration season.  
