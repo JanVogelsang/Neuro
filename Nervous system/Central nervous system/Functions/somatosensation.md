@@ -37,7 +37,13 @@ Grasshoppers and butterflies have hair cells all over their bodies and wings to 
 
 Bats can detect the warmth of the animal from about a half a foot away using their nose leaf.
 
+### Pit vipers
+
+Pit vipers have a heat sensitive organ between their eyes and nostrils, which allows them to respond to temperature changes as small as 0.002 degrees Celsius.
+
 ## Magnetosensation
+
+Magnetosensation is the ability to detect magnetic fields.
 
 ### Migratory birds
 
@@ -46,3 +52,19 @@ Certain migratory birds are believed to use magnetic cues in addition to several
 ### salamanders and frogs
 
 Earthbound salamanders and frogs are thought to use magnetic field orientation when they have to find the nearest shore.
+
+## Electroception
+
+Electroception is the ability to perceive natural electrical stimuli which is used for detecting objects and communication.
+
+### Passive electroreceptors
+
+Some animals detect electricity in their environment without producing it themselves, such as certain sharks, catfish and platypus.
+
+### Active electroreceptors
+
+Some species actively generate electricity, including various species of electric fish like the electric eel.  
+They can also detect objects in their environment by perceiving how the electric field they produce around themselves is modified by the presence of other objects.
+This reception takes place in electroreceptive sensory cells embedded in the fish's skin, originally described as the electroreceptive retina.  
+In addition to electrolocation, many fish also use their active electroreceptive sense to communicate as part of their social behavior. For example, each species of fish has their own characteristic discharge profile from the electric organ.
+
